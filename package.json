@@ -48,6 +48,14 @@
       "category": "public.app-category.utilities",
       "icon": "icon.icns"
     },
+    "linux": {
+      "target": [
+				"appImage",
+				"deb",
+				"rpm"
+			],
+      "icon": "icon.icns"
+    },
     "win": {
       "icon": "icon.ico"
     }
